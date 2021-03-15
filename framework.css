@@ -1,0 +1,22 @@
+@media screen and (max-width: 767px) {
+    
+    .xs {
+
+    }
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    
+    .md {
+
+    }
+}
+
+@media screen and (min-width: 992px) {
+
+    .lg {
+
+    }
+
+}
