@@ -1,7 +1,16 @@
+[class*='col-'] {
+    position: relative;
+    height: 200px;
+    border: solid 1px;
+    float: left;
+}
+
+
+
 @media screen and (max-width: 767px) {
     
-    .xs {
-
+    .col-12-xs {
+        width: calc(100% / 12);
     }
 
 }
