@@ -16,14 +16,14 @@
   float: left;
 }
 
-#lezioni .row img {
+.lezioni .row img {
   
   display: block;
   margin-right: auto;
   margin-left: auto;
 }
 
-#lezioni {
+. {
   text-align: center;
 }
 
