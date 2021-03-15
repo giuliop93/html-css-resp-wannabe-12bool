@@ -11,6 +11,7 @@
     
     .col-12-xs {
         width: calc(100% / 12);
+        float: none;
     }
 
 }
